@@ -1,0 +1,35 @@
+.useronline{
+	background-color: #00a346 !important;
+}
+
+.useroffline{
+	background-color: #707070 !important;
+}
+
+.useralert{
+	background-color: #a20023 !important;
+}
+
+.alertbody{
+	background-color: #dd0000 !important;
+}
+
+.defaultcursor{
+	cursor: default !important;
+}
+
+.lab:hover{
+	cursor: pointer;
+}
+
+.lab{
+	background-color: #b7b7b7;
+}
+
+.myactive{
+	background-color: #b2ffc3;
+}
+
+.myactive:hover{
+	cursor: pointer;
+}
